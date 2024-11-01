@@ -2,15 +2,6 @@
 
 This repository hosts a **Personal Finance Tracker** application designed to streamline personal financial management. The project includes both a **Command Line Interface (CLI)** and a **Graphical User Interface (GUI)** developed in Python with a Tkinter-based GUI.
 
-## Table of Contents
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Installation](#installation)
-- [Usage](#usage)
-- [CLI Instructions](#cli-instructions)
-- [GUI Instructions](#gui-instructions)
-- [License](#license)
-
 ## Features
 ### CLI Version
 - **Add, view, update, and delete transactions**: Manage transactions through text-based commands.
